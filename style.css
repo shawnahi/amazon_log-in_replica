@@ -1,0 +1,43 @@
+img {
+    padding-bottom: 50px;
+}
+
+#container {
+    border: 1px solid #cfcece;
+    width: 500px;
+    margin: auto;
+}
+
+#login-form {
+    margin-bottom: auto;
+}
+
+.email-input {
+    width: 100%;
+}
+
+.password-input {
+    width: 100%
+}
+
+#another-container {
+    display: block;
+}
+
+#create-account {
+    display: block;
+    background-color: light-gray;
+    margin: auto;
+    color: black;
+}
+
+ul {
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+
+span {
+    font-size: small;
+    text-align: center;
+}
